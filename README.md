@@ -49,7 +49,7 @@ NYC Taxi Data EDA | Exploring taxi trips, fares & trends | 🔗 Coming Soon
 
 | Platform | Link |
 |--------|------|
-LinkedIn | (https://www.linkedin.com/in/kainat-zahra/) 
+LinkedIn | https://www.linkedin.com/in/kainat-zahra
 GitHub | https://github.com/datawithkainat  
 Email | kainatzahraofficial01@gmail.com
 
