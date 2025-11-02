@@ -49,9 +49,9 @@ NYC Taxi Data EDA | Exploring taxi trips, fares & trends | 🔗 Coming Soon
 
 | Platform | Link |
 |--------|------|
-LinkedIn | *(Add your LinkedIn link here)*  
+LinkedIn | (https://www.linkedin.com/in/kainat-zahra/) 
 GitHub | https://github.com/datawithkainat  
-Email | *(optional)*  
+Email | kainatzahraofficial01@gmail.com
 
 ---
 
